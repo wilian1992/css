@@ -11,8 +11,8 @@ elemImageBuilding.src = imageBuilding
 const elemImageNotebook = new Image()
 elemImageNotebook.src = imageNotebook
 
-document.querySelector('#building')
-    .appendChild(elemImageBuilding)
+// document.querySelector('#building')
+//     .appendChild(elemImageBuilding)
 
-document.querySelector('#notebook')
-    .appendChild(elemImageNotebook)
+// document.querySelector('#notebook')
+    // .appendChild(elemImageNotebook)
